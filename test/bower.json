@@ -1,0 +1,9 @@
+{
+  "name": "sentara",
+  "private": true,
+  "dependencies": {
+    "jasmine": "~2.0.0",
+    "requirejs": "~2.1.9"
+  },
+  "devDependencies": {}
+}
