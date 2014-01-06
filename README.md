@@ -49,17 +49,17 @@ Send me a [message](https://bitbucket.org/bluehazetech) or submit an [issue](htt
 ## Major components:
 
 * [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
-* [Backbone]()
-* [RequireJS]()
-* [jQuery]()
-* [Modernizr]()
-* [Handlebars]()
-* [CSS Normalize]()
-* [SCSS]()
+* [Backbone](http://documentcloud.github.io/backbone/)
+* [RequireJS](http://requirejs.org/)
+* [jQuery](http://jquery.com/)
+* [Modernizr](http://modernizr.com/)
+* [Handlebars](http://handlebarsjs.com/)
+* [CSS Normalize](https://github.com/necolas/normalize.css/)
+* [SCSS](http://sass-lang.com/)
 * [Compass](http://compass-style.org/)
-* [Grunt]()
-* [Bower]()
-* [Karma]()
+* [Grunt](http://gruntjs.com/)
+* [Bower](https://github.com/bower/bower)
+* [Karma](http://karma-runner.github.io/0.10/index.html)
 * [Jasmine](https://github.com/pivotal/jasmine)
 
 ## License
